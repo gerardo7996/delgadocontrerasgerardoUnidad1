@@ -84,7 +84,7 @@
 </head>
 <body class="sb-nav-fixed">
 	<nav class="navbar">
-		<h5 class="navbar-brand"><strong>Mi sitio web</strong></h5>
+		<h5 class="navbar-brand"><strong>Mi tienda web</strong></h5>
 	</nav>
 	<div class="container mt-5">
 		<br>
