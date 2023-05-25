@@ -22,7 +22,7 @@ if ($num_rows==1) {
 	$paracorreo = $correo;
 	//Aquí se muestra el título del correo que se va a enviar
 	$titulo = "Recuperación de contraseña olvidada";
-	$mensaje = "Hola: " . $row['username'] . " Has solicitado un correo de ecuperación de tu contraseña olvidada. Por favor ingresa al siguiente enlace para restablecer tu contraseña: $enlace";
+	$mensaje = "Hola: " . $row['username'] . " Has solicitado un correo de recuperación de tu contraseña olvidada. Por favor ingresa al siguiente enlace para restablecer tu contraseña: $enlace";
 	$tucorreo = "From: 20045084@alumno.utc.edu.mx";
     endwhile;
 	//Aquí utilizamos un condicional con el parametro mail para comprobar los envios de correos
