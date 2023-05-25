@@ -36,7 +36,7 @@ h1 {color:aquamarine; font-size:100px;}
   <h2 align="center">INICIA SESION</h2>
 <div class="form-outline">
   <input type="text" id="username" class="form-control" name="username" />
-  <label class="form-label" for="form12">USERNAME</label>
+  <label class="form-label" for="form12">Uusuario</label>
 
 <br>
 <br>
@@ -44,13 +44,13 @@ h1 {color:aquamarine; font-size:100px;}
 
 <div class="form-outline">
   <input type="password" id="pswd" class="form-control" name="pswd" />
-  <label class="form-label" for="form12">CONTRASEÑA</label>
+  <label class="form-label" for="form12">Contraseña</label>
 </div>
 <br>
 <br>
 <br>
 
-<button type="button" class="btn btn-danger" name="login" id="login">GOOOO</button></div></div></div></div>
+<button type="button" class="btn btn-danger" name="login" id="login">Iniciar Sesión</button></div></div></div></div>
   
   <p>BIENVENIDO NOS ALEGRA TU VISITA!!!!.</p>
 
