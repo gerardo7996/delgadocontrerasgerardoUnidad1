@@ -108,7 +108,7 @@
 				</div>
 			</div>
 			<br>
-			<!-- Botón para cambiar la contraseña -->
+			<!-- Botón para enviar los comentarios -->
 			<center>
 				<button class="btn" type="submit" name="send-comment" id="send-comment"><i class="bi bi-send">  </i><strong>Enviar comentario</strong></button>  <button class="btn" type="reset" name="clean" id="clean"><i class="bi bi-trash">  </i><strong>Limpiar formulario</strong></button><br>
 			</center>
