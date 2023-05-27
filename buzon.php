@@ -85,7 +85,7 @@
 <body class="sb-nav-fixed">
 	<nav class="navbar">
 		<h5 class="navbar-brand"><strong>Mi tienda web</strong></h5>
-		<a class="d-flex btn" href="inicio.php" style="margin-right: 25px;"><i class="bi bi-backspace" style="margin-right: 7px;"></i><strong>Regresar</strong></a>
+		<a class="d-flex btn" href="home.php" style="margin-right: 25px;"><i class="bi bi-backspace" style="margin-right: 7px;"></i><strong>Regresar</strong></a>
 	</nav>
 	<!-- Formulario para enviar comentarios -->
 	<div class="container mt-5">
