@@ -18,6 +18,7 @@
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <!-- Librería de SweetAlert2 -->
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <!-- Estilos del sitio -->
   <style type="text/css">
     * {
       margin: 0;
