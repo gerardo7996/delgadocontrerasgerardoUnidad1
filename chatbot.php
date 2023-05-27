@@ -85,5 +85,6 @@
 		<h4 class="mt-5" align="center"><strong>Interactua con nuestro chat en línea</strong></h4><hr>
 		<h5 align="center">Para todos nuestros clientes que lleguen a tener dudas, pueden comentar con nuestro Chat Bot en línea de nuestro sitio para que puedan resolver sus dudas.<br><br>En la parte inferior de la derecha de esta sección puede encontrar el chat de nuestro sitio web para cualquier duda que lleguen a tener.</h5><br>
 	</div>
+	<br><br>
 </body>
 </html>
